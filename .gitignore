@@ -1,0 +1,15 @@
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+.Ruserdata
+
+# shinyapps.io / rsconnect
+rsconnect/
+
+# macOS
+.DS_Store
+
+# local scratch
+*.log
